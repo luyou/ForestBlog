@@ -11,15 +11,14 @@
     <nav id="top-header">
         <div class="top-nav">
             <div class="user-login">
-                <c:choose>
+                <%--<c:choose>
                     <c:when test="${sessionScope.user==null}">
-                        <a href="/admin">登录</a>
+                       <a href="/admin">登录</a>
                     </c:when>
                     <c:otherwise>
                         <a href="/admin">进入后台</a>
                     </c:otherwise>
-                </c:choose>
-                <a href="https://liuyanzhao.com/bulletin/my-service" target="_blank" style="color:red;">毕设代做/有偿服务</a>
+                </c:choose>--%>
             </div>
             <div class="menu-topmenu-container">
                 <ul id="menu-topmenu" class="top-menu">

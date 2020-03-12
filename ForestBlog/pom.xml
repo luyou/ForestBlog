@@ -224,6 +224,7 @@
     </properties>
 
     <build>
+        <finalName>ROOT</finalName>
         <resources>
             <!-- 编译之后包含xml -->
             <resource>

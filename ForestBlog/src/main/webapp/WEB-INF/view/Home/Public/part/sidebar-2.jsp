@@ -11,9 +11,9 @@
 
     <%--关于本站 start--%>
     <aside class="widget about">
-        <h3 class="widget-title">
-            <i class="fa fa-bars"></i>关于本站
-        </h3>
+<%--        <h3 class="widget-title">--%>
+<%--            <i class="fa fa-bars"></i>关于本站--%>
+<%--        </h3>--%>
         <div id="feed_widget">
             <div class="feed-about">
                 <div class="about-main">
